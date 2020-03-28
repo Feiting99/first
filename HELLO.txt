@@ -1,2 +1,4 @@
 this is a text file
 helloword
+helloword
+create a new master
